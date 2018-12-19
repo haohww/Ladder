@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387514699888",
+    "firebase_url": "https://ladder-fb164.firebaseio.com",
+    "project_id": "ladder-fb164",
+    "storage_bucket": "ladder-fb164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387514699888:android:d299506b01acdb28",
+        "android_client_info": {
+          "package_name": "com.nip.ladder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387514699888-5seltkqal5fl4d0hq23tho6r9cs4c1fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nip.ladder",
+            "certificate_hash": "99cd7a82023b3f5889a97fd6116750249ef46649"
+          }
+        },
+        {
+          "client_id": "387514699888-r8si7011qoj1j3onh0qhdi2q9g6gernc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFFpw89yWmo00kYghg0ghutewAzKQl54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387514699888-r8si7011qoj1j3onh0qhdi2q9g6gernc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
